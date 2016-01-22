@@ -1,50 +1,13 @@
-__________________________________________________________________________________
-  ______    ______    ______   ______  ________                                   
-|       \  /      \  /      \ |      \|        \                                  
-| $$$$$$$\|  $$$$$$\|  $$$$$$\ \$$$$$$ \$$$$$$$$                                  
-| $$__/ $$| $$__| $$| $$___\$$  | $$     | $$                                     
-| $$    $$| $$    $$ \$$    \   | $$     | $$                                     
-| $$$$$$$\| $$$$$$$$ _\$$$$$$\  | $$     | $$                                     
-| $$__/ $$| $$  | $$|  \__| $$ _| $$_    | $$                                     
-| $$    $$| $$  | $$ \$$    $$|   $$ \   | $$                                     
- \$$$$$$$  \$$   \$$  \$$$$$$  \$$$$$$    \$$                                     
-                                                                                  
-                                                                                  
-                                                                                  
-  ______    ______   __        __       __   ______   _______                     
- /      \  /      \ |  \      |  \     /  \ /      \ |       \                    
-|  $$$$$$\|  $$$$$$\| $$      | $$\   /  $$|  $$$$$$\| $$$$$$$\                   
-| $$___\$$| $$  | $$| $$      | $$$\ /  $$$| $$__| $$| $$__/ $$                   
- \$$    \ | $$  | $$| $$      | $$$$\  $$$$| $$    $$| $$    $$                   
- _\$$$$$$\| $$ _| $$| $$      | $$\$$ $$ $$| $$$$$$$$| $$$$$$$                    
-|  \__| $$| $$/ \ $$| $$_____ | $$ \$$$| $$| $$  | $$| $$                         
- \$$    $$ \$$ $$ $$| $$     \| $$  \$ | $$| $$  | $$| $$                        
-  \$$$$$$   \$$$$$$\ \$$$$$$$$ \$$      \$$ \$$   \$$ \$$                        
-                \$$$                                                              
-                                                                                  
-                                                                                 
- _______                        ______                   __                       
-|       \                      /      \                 |  \                      
-| $$$$$$$\  ______    ______  |  $$$$$$\  ______    ____| $$  ______    ______   
-| $$__| $$ /      \  /      \ | $$   \$$ /      \  /      $$ /      \  /      \   
-| $$    $$|  $$$$$$\|  $$$$$$\| $$      |  $$$$$$\|  $$$$$$$|  $$$$$$\|  $$$$$$\  
-| $$$$$$$\| $$    $$| $$  | $$| $$   __ | $$  | $$| $$  | $$| $$    $$| $$   \$$
-| $$  | $$| $$$$$$$$| $$__| $$| $$__/  \| $$__/ $$| $$__| $$| $$$$$$$$| $$        
-| $$  | $$ \$$     \ \$$    $$ \$$    $$ \$$    $$ \$$    $$ \$$     \| $$        
- \$$   \$$  \$$$$$$$  \$$$$$$$  \$$$$$$   \$$$$$$   \$$$$$$$  \$$$$$$$ \$$        
-                          | $$                                                    
-                          | $$                                                  
-                           \$$                                                    
-__________________________________________________________________________________
-|Arkadaslar Merhaba Ben ReqCoder,                                                |
-|V0.1 Ilk Sürümüdür Oncelikle. Bu Programda Gizli Kolay Bir Şekilde SQLmap       |
-|Kullanabilirsiniz...                                                            |
-|________________________________________________________________________________|
-|Neler Vardir Bu Programda(Ayrica Gerekli Olan Linux Yazilimlari):               |
-|           ProxyChains            MACChanger(Alvaro Lopez Ortega)               |
-|           SQLMap                AdminPanelFinder(Indirmenize Gerek Vardir.)    |
-|________________________________________________________________________________|
-|                   Dikkat! Kali Linux Ve Backtrack Onerilir.                    |
-|                  Sadece Linux/GNU Isletim Sistemlerinde Calisir.               |
-|                               Iyi Sizmalar!                                    |
-|________________________________________________________________________________|
+
+Arkadaslar Merhaba Ben ReqCoder,                                                
+V0.1 Ilk Sürümüdür Oncelikle. Bu Programda Gizli Kolay Bir Şekilde SQLmap       
+Kullanabilirsiniz...                                                            
+
+Neler Vardir Bu Programda(Ayrica Gerekli Olan Linux Yazilimlari):               
+           ProxyChains            MACChanger(Alvaro Lopez Ortega)               
+           SQLMap                AdminPanelFinder(Indirmenize Gerek Vardir.)    
+
+                   Dikkat! Kali Linux Ve Backtrack Onerilir.                    
+                 Sadece Linux/GNU Isletim Sistemlerinde Calisir.               
+                               Iyi Sizmalar!                                    
+
