@@ -5,7 +5,7 @@ Kullanabilirsiniz...
 
 Neler Vardir Bu Programda(Ayrica Gerekli Olan Linux Yazilimlari):               
            ProxyChains            MACChanger(Alvaro Lopez Ortega)               
-           SQLMap                AdminPanelFinder(Indirmenize Gerek Vardir.)    
+           SQLMap                AdminPanelFinder(Indirmenize Gerek Yoktur.)    
 
                    Dikkat! Kali Linux Ve Backtrack Onerilir.                    
                  Sadece Linux/GNU Isletim Sistemlerinde Calisir.               
